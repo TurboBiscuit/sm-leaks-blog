@@ -13,4 +13,6 @@ What if the ember forests are products of that volcanic activity?
 ![](https://cdn.discordapp.com/attachments/685994642768265235/725671420197208064/unknown.png)<br>
 I think that something will be there. Probably lore stuff, but who knows.<br>
 **Jetpack**<br>
-Don't quote me on this, but i'm seeing this being an Exosuit upgrade, kinda like a NMS styled jetpack
+Don't quote me on this, but i'm seeing this being an Exosuit upgrade, kinda like a NMS styled jetpack<br>
+
+*Editors Note:* IvanCoHe (the person whos been writing all of these brefings) left shortly after this for unknown reasons. (Ivan if you see this we hope you come back some day.)
