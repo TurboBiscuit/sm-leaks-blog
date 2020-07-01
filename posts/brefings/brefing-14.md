@@ -9,4 +9,8 @@
 
 **That's it for today. I'll talk about farmbots tomorrow but I prefer to cut these up so there's a build up until survival. Thanks for reading, bye!**
 
-*Editors Note:* This was right after the trailer was released.
+*Editors Note:* This was posted right after as and ammendment to the post above.
+
+**I forgot to say that you can hold the gloworms underwater and that it serves some purpose. I'm guessing it's light but Idk**
+
+*Final Editors Note:* This was right after the trailer was released.
