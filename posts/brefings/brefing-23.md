@@ -21,3 +21,7 @@
 - There's probably not much code related to them. This is because most of it was cut out of the final release. I suspect, however, that this was sloppily done in the last 2 weeks before launch, so there should still be some stuff left. That being said...
 
 **I COMMENCE THE HUNT**
+ 
+*Editors Note:* This was sent right after.
+
+Colored totebots confirmed, hunt over.
