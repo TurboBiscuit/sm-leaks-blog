@@ -1,5 +1,5 @@
 # Brefing 10 (4/22/2020)
-- Hey people! So I'm going to start doing the Briefings like this now. It's easier for me to format and it serves the same purpose. Now, for the news:<br>
+## Hey people! So I'm going to start doing the Briefings like this now. It's easier for me to format and it serves the same purpose. Now, for the news:<br>
 <br>
 
 **The internal survival build was last updated 4 days ago.** This might mean nothing but it most likely means that this is a pretty stable build. I'd expect some updates in the coming days but this might even be the last one (Unprobable but still a possiblity)<br>
