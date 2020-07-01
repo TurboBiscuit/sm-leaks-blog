@@ -9,7 +9,3 @@
 **Farmbot variants and where to find them (Well actually we don't know that yet).** I'm guessing there's 4 variants of every kind of enemy robot. Green, Red, Yellow and Blue. We have only seen Green and Red for now but there are yellow and blue totebot heads so I'd say that confirms it. It's unknown if these are just variant skins or actual different enemies, but I'm willing to bet that they are purely cosmetic. Also, Tapebots have a tape-entangled variant and an unentangled variant. So uh, cool I guess.
 
 **That's it for today Mechanics. See you all next briefing!**
-
-*Editors Note:* This was posted right after.
-
-![](https://cdn.discordapp.com/attachments/685994642768265235/703004701981147266/unknown.png)
