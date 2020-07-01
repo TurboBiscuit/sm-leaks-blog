@@ -17,5 +17,6 @@
 **Thanks for reading Mechanics, see you next briefing!**<br>
 
 <br>
-Chest and seat
+Chest and seat<br>
+
 ![](https://cdn.discordapp.com/attachments/685994642768265235/702639725260963951/unknown.png)
